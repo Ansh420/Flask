@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+{% for emp_id, emp_data in emps_data.items() %}
+
+<div>
+    <table>
+        <tr>
+            <td>
+                DEPARTMENT:
+            </td>
+            <td>{{ emp_data["department"] }}</td>
+        </tr>
+        <tr>
+            <td>
+                NAME:
+            </td>
+            <td>{{ emp_data["name"] }}</td> 
+        </tr>
+        <tr>
+            <td>
+                POSITION:
+            </td>
+            <td>{{ emp_data["position"] }}</td>
+        </tr>
+        <tr>
+            <td>
+                SALARY:
+            </td>
+            <td>{{ emp_data["salary"] }}</td>
+        </tr>
+</div>
+<br>
+
+{% endfor %}
+
+{% endblock %}
