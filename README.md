@@ -1,5 +1,5 @@
 ![flasklogo](https://github.com/user-attachments/assets/d6cee225-3d2d-4316-8bf1-e02ed9029d76)
-# **Learning Path** 
+# Learning Path 
 ## Basic Flask App:
 
 - Create a simple Flask app to serve a "Hello, World!" message.
@@ -7,14 +7,14 @@
 - Explore template rendering with Jinja2.
 ## Handling Requests:
 
-- Learn about different HTTP methods (GET, POST, PUT, DELETE).
+- Learn about different **HTTP methods** (GET, POST, PUT, DELETE).
 - Implement form handling and data processing.
 - Handle request parameters and query strings.
 ## Routing and URL Patterns:
 
-- Create complex URL patterns using Flask's routing system.
+- Create complex URL patterns using **Flask's routing system**.
 - Use URL parameters and converters.
-- Implement redirect and error handling.
+- Implement redirect and **error handling**.
 ## Rendering Templates:
 
 - Master Jinja2 templating language.
@@ -22,7 +22,7 @@
 - Use template inheritance for efficient layout management.
 ## Working with Databases:
 
-- Integrate a database (e.g., SQLite, SQLAlchemy) with Flask.
+- Integrate a database **(e.g., SQLite, SQLAlchemy)** with Flask.
 - Create models to represent data structures.
 - Perform CRUD operations (create, read, update, delete).
 ## Sessions and User Authentication:
