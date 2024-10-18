@@ -2,7 +2,7 @@
 # Learning Path 
 ## Basic Flask App:
 
-- Create a simple Flask app to serve a "Hello, World!" message.
+- Create a simple Flask app to serve a **"Hello, World!"** message.
 - Understand routing, request handling, and response rendering.
 - Explore template rendering with Jinja2.
 ## Handling Requests:
@@ -17,7 +17,7 @@
 - Implement redirect and **error handling**.
 ## Rendering Templates:
 
-- Master Jinja2 templating language.
+- Master **Jinja2** templating language.
 - Create dynamic templates with variables and control flow.
 - Use template inheritance for efficient layout management.
 ## Working with Databases:
