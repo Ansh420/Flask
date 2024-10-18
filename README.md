@@ -24,12 +24,12 @@
 
 - Integrate a database **(e.g., SQLite, SQLAlchemy)** with Flask.
 - Create models to represent data structures.
-- Perform CRUD operations (create, read, update, delete).
+- Perform **CRUD** operations (create, read, update, delete).
 ## Sessions and User Authentication:
 
 - Manage user sessions and authentication.
 - Implement login, logout, and user management features.
-- Consider using Flask-Login or Flask-Security for advanced authentication.
+- Consider using Flask-Login or **Flask-Security** for advanced authentication.
 ## Error Handling:
 
 - Gracefully handle exceptions and errors.
@@ -44,4 +44,4 @@
 - Flask extensions (e.g., Flask-WTF, Flask-SQLAlchemy, Flask-RESTful)
 - Deployment options (e.g., Heroku, AWS, Gunicorn)
 - Security best practices
-- API development with Flask-RESTful
+- API development with **Flask-RESTful**
