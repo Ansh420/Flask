@@ -32,7 +32,7 @@
 - Consider using Flask-Login or **Flask-Security** for advanced authentication.
 ## Error Handling
 
-- Gracefully handle exceptions and errors.
+- Gracefully handle **exceptions and errors**.
 - Provide informative error messages to users.
 - Implement custom error pages.
 ## Testing
