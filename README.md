@@ -17,7 +17,7 @@
 - Implement redirect and **error handling**.
 ## Rendering Templates
  
-- Master **Jinja2** templating language.
+- Master **Jinja2** templating language. 
 - Create dynamic templates with variables and control flow.
 - Use template inheritance for efficient layout management.
 ## Working with Databases
