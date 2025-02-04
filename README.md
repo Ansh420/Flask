@@ -25,7 +25,7 @@
 - Integrate a database **(e.g., SQLite, SQLAlchemy)** with Flask.
 - Create models to represent data structures.
 - Perform **CRUD** operations (create, read, update, delete).
-## Sessions and User Authentication
+## Sessions and User Authentication 
 
 - Manage user sessions and authentication.
 - Implement login, logout, and user management features.
