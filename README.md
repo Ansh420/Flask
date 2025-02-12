@@ -4,7 +4,7 @@
 
 - Create a simple Flask app to serve a **"Hello, World!"** message.
 - Understand routing, request handling, and response rendering.
-- Explore template rendering with Jinja2 
+- Explore template rendering with Jinja2.
 ## Handling Requests
 
 - Learn about different **HTTP methods** (GET, POST, PUT, DELETE)
