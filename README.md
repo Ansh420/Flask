@@ -10,7 +10,7 @@
 - Learn about different **HTTP methods** (GET, POST, PUT, DELETE)
 - Implement form handling and data processing.
 - Handle request parameters and query strings.
-## Routing and URL Patterns
+## Routing and URL Patterns 
 
 - Create complex URL patterns using **Flask's routing system**.
 - Use URL parameters and converters.
