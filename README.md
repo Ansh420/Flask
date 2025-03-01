@@ -1,5 +1,5 @@
 ![flasklogo](https://github.com/user-attachments/assets/d6cee225-3d2d-4316-8bf1-e02ed9029d76)
-# Learning Path 
+# Learning Path  
 ## Basic Flask App     
 
 - Create a simple Flask app to serve a **"Hello, World!"** message.
